@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="leo bored.png"><SubTexture name="leo bored idle0000" x="0" y="0" width="1344" height="1390" frameX="0" frameY="0" frameWidth="1344" frameHeight="1390" />
+<SubTexture name="leo bored idle0001" x="1344" y="0" width="1344" height="1390" frameX="0" frameY="0" frameWidth="1344" frameHeight="1390" />
+<SubTexture name="leo bored idle0002" x="2688" y="0" width="1344" height="1390" frameX="0" frameY="0" frameWidth="1344" frameHeight="1390" />
+<SubTexture name="leo bored idle0003" x="4032" y="0" width="1344" height="1390" frameX="0" frameY="0" frameWidth="1344" frameHeight="1390" />
+<SubTexture name="leo bored idle0004" x="0" y="1390" width="1344" height="1390" frameX="0" frameY="0" frameWidth="1344" frameHeight="1390" />
+<SubTexture name="leo bored idle0005" x="1344" y="1390" width="1344" height="1390" frameX="0" frameY="0" frameWidth="1344" frameHeight="1390" />
+<SubTexture name="leo bored right0000" x="2688" y="1390" width="1344" height="1390" frameX="0" frameY="0" frameWidth="1344" frameHeight="1390" />
+<SubTexture name="leo bored right0001" x="4032" y="1390" width="1344" height="1390" frameX="0" frameY="0" frameWidth="1344" frameHeight="1390" />
+<SubTexture name="leo bored right0002" x="0" y="2780" width="1344" height="1390" frameX="0" frameY="0" frameWidth="1344" frameHeight="1390" />
+<SubTexture name="leo bored left0000" x="1344" y="2780" width="1344" height="1390" frameX="0" frameY="0" frameWidth="1344" frameHeight="1390" />
+<SubTexture name="leo bored left0001" x="2688" y="2780" width="1344" height="1390" frameX="0" frameY="0" frameWidth="1344" frameHeight="1390" />
+<SubTexture name="leo bored left0002" x="4032" y="2780" width="1344" height="1390" frameX="0" frameY="0" frameWidth="1344" frameHeight="1390" />
+<SubTexture name="leo bored up0000" x="0" y="4170" width="1344" height="1390" frameX="0" frameY="0" frameWidth="1344" frameHeight="1390" />
+<SubTexture name="leo bored up0001" x="1344" y="4170" width="1344" height="1390" frameX="0" frameY="0" frameWidth="1344" frameHeight="1390" />
+<SubTexture name="leo bored up0002" x="2688" y="4170" width="1344" height="1390" frameX="0" frameY="0" frameWidth="1344" frameHeight="1390" />
+<SubTexture name="leo bored down0000" x="4032" y="4170" width="1344" height="1390" frameX="0" frameY="0" frameWidth="1344" frameHeight="1390" />
+<SubTexture name="leo bored down0001" x="0" y="5560" width="1344" height="1390" frameX="0" frameY="0" frameWidth="1344" frameHeight="1390" />
+<SubTexture name="leo bored down0002" x="1344" y="5560" width="1344" height="1390" frameX="0" frameY="0" frameWidth="1344" frameHeight="1390" />
+</TextureAtlas>

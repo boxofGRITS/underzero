@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="leo assents.png"><SubTexture name="leo assents idle 0000" x="0" y="0" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents idle 0001" x="1630" y="0" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents idle 0002" x="3260" y="0" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents idle 0003" x="4890" y="0" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents idle 0004" x="6520" y="0" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents idle 0005" x="8150" y="0" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents idle bored0000" x="9780" y="0" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents idle bored0001" x="0" y="1407" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents idle bored0002" x="1630" y="1407" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents idle bored0003" x="3260" y="1407" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents idle bored0004" x="4890" y="1407" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents idle bored0005" x="6520" y="1407" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents right0000" x="8150" y="1407" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents right0001" x="9780" y="1407" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents right0002" x="0" y="2814" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents right bored0000" x="1630" y="2814" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents right bored0001" x="3260" y="2814" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents right bored0002" x="4890" y="2814" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents left0000" x="6520" y="2814" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents left0001" x="8150" y="2814" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents left0002" x="9780" y="2814" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents left bored0000" x="0" y="4221" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents left bored0001" x="1630" y="4221" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents left bored0002" x="3260" y="4221" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents up0000" x="4890" y="4221" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents up0001" x="6520" y="4221" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents up0002" x="8150" y="4221" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents up bored0000" x="9780" y="4221" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents up bored0001" x="0" y="5628" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents up bored0002" x="1630" y="5628" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents down0000" x="3260" y="5628" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents down0001" x="4890" y="5628" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents down0002" x="6520" y="5628" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents down bored0000" x="8150" y="5628" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents down bored0001" x="9780" y="5628" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents down bored0002" x="0" y="7035" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents stomp0000" x="1630" y="7035" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents stomp0001" x="3260" y="7035" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents stomp0002" x="4890" y="7035" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents stomp0003" x="6520" y="7035" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents stomp0004" x="8150" y="7035" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents stomp0005" x="9780" y="7035" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents stomp0006" x="0" y="8442" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents stomp0007" x="1630" y="8442" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents stomp0008" x="3260" y="8442" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents stomp0009" x="4890" y="8442" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents stomp0010" x="6520" y="8442" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents stomp0011" x="8150" y="8442" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents stomp0012" x="9780" y="8442" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents stomp0013" x="0" y="9849" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents stomp0014" x="1630" y="9849" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents stomp0015" x="3260" y="9849" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents stomp0016" x="4890" y="9849" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents sans0000" x="6520" y="9849" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents sans0001" x="8150" y="9849" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents sans0002" x="9780" y="9849" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents sans0003" x="0" y="11256" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents sans0004" x="1630" y="11256" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents sans0005" x="3260" y="11256" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+<SubTexture name="leo assents sans0006" x="4890" y="11256" width="1630" height="1407" frameX="0" frameY="0" frameWidth="1630" frameHeight="1407" />
+</TextureAtlas>

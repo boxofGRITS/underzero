@@ -1,0 +1,125 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-94,
+				7
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "stomp",
+			"indices": [],
+			"name": "leo assents stomp"
+		},
+		{
+			"offsets": [
+				-93,
+				7
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "sans",
+			"indices": [],
+			"name": "leo assents sans"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "leo assents idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "leo assents left",
+			"indices": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "leo assents down",
+			"indices": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "leo assents up",
+			"indices": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "leo assents right",
+			"indices": [
+				0,
+				1,
+				2
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/leo assents",
+	"position": [
+		-500,
+		-250
+	],
+	"healthicon": "leo",
+	"flip_x": false,
+	"healthbar_colors": [
+		124,
+		162,
+		200
+	],
+	"camera_position": [
+		430,
+		430
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}
